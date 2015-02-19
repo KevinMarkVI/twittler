@@ -1,0 +1,43 @@
+.clear {
+	clear: both;
+}
+
+.newTweets {
+	background-color: #CCCCFF;
+	margin: 2em;
+}
+
+.contain {
+	background-color: #CCCCFF;
+	margin: 2em;
+}
+
+button {
+	background-color: #DDDDDD;
+	border-radius: 8px;
+	box-shadow: 2px 2px 1px;
+
+}
+	
+}
+
+body {
+	background-color: white;
+	text-align: center;
+}
+
+.user {
+	background-color: #CCCCFF;
+	margin: 2em;
+}
+
+.title {
+	text-align: center;
+	width: 10em;
+	margin: auto;
+	font-size: 4em;
+}
+
+.button {
+	text-align: center;
+}
